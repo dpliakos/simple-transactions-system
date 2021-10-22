@@ -1,0 +1,347 @@
+{
+  "results": [
+      {
+          "timestamp": "2021-09-27T01:07:08.384Z",
+          "description": "Siteground Hosting - SITEGROUND HOSTING     442071839093  GBR",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -43.06,
+          "currency": "GBP",
+          "transaction_id": "588a3be9c7716310d941c17068dd5323",
+          "meta": {
+              "provider_transaction_id": "275b8645-4d67-4b4f-92d0-5c473e4cddd0",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-09-24T02:35:12.595Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-26T23:27:19.848Z",
+          "description": "Google Play Apps - GOOGLE *Domains        650-253-0000  GBR",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -10.0,
+          "currency": "GBP",
+          "transaction_id": "436eade31ea2e8f8506eb923dcae5d37",
+          "meta": {
+              "provider_transaction_id": "275964dc-3c9e-484d-8813-6d335673766a",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-09-24T02:33:22.691Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-26T00:41:51.675Z",
+          "description": "Yin Noe - EXPENSES",
+          "transaction_type": "DEBIT",
+          "transaction_category": "TRANSFER",
+          "transaction_classification": [],
+          "amount": -200.0,
+          "currency": "GBP",
+          "transaction_id": "f61da0f3803bbc0d06b3e252a81648d7",
+          "meta": {
+              "provider_transaction_id": "322946e7-60e8-4505-918e-3683f4fc3506",
+              "provider_source": "FASTER_PAYMENTS_OUT",
+              "transaction_time": "2021-09-26T00:41:50.944Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-21T21:25:56Z",
+          "description": "Yin Noe - YIN NOE INVESTMENT",
+          "transaction_type": "CREDIT",
+          "transaction_category": "TRANSFER",
+          "transaction_classification": [
+              "Pension and insurances",
+              "Buildings and contents insurance"
+          ],
+          "amount": 5000.0,
+          "currency": "GBP",
+          "transaction_id": "a27d68acef9405d3725d977880d7fa6e",
+          "meta": {
+              "provider_transaction_id": "aaeff3ec-cd23-44c9-943a-2a3bb739c725",
+              "provider_source": "FASTER_PAYMENTS_IN",
+              "transaction_time": "2021-09-21T21:25:56.000Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-20T16:42:05Z",
+          "description": "Pavel Skalin",
+          "transaction_type": "CREDIT",
+          "transaction_category": "TRANSFER",
+          "transaction_classification": [],
+          "amount": 3.0,
+          "currency": "GBP",
+          "transaction_id": "225451b4f351a4fc5285a82b91104b59",
+          "meta": {
+              "provider_transaction_id": "22331763-d903-417f-96fb-6d63758b4a4b",
+              "provider_source": "FASTER_PAYMENTS_IN",
+              "transaction_time": "2021-09-20T16:42:05.000Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-16T00:53:49.34Z",
+          "description": "Webflow - WEBFLOW.COM            4159640555    CA ",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [
+              "Business Services"
+          ],
+          "merchant_name": "Webflow",
+          "amount": -14.47,
+          "currency": "GBP",
+          "transaction_id": "754ddd7d9f0d2d013a517d7f1f49eb66",
+          "meta": {
+              "provider_transaction_id": "f7e6c229-7a64-4097-81f7-e533558d3c19",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-09-15T16:06:52.395Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-15T23:50:01.266Z",
+          "description": "Next Level Business - SGFJMQD",
+          "transaction_type": "DEBIT",
+          "transaction_category": "DIRECT_DEBIT",
+          "transaction_classification": [],
+          "amount": -240.0,
+          "currency": "GBP",
+          "transaction_id": "653760fb5fd057bbc68366f2de8f369b",
+          "meta": {
+              "provider_transaction_id": "58f1c61f-9e59-4f63-afe4-b313f649339a",
+              "provider_source": "DIRECT_DEBIT",
+              "transaction_time": "2021-09-15T23:50:01.081Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-12T23:58:54.879Z",
+          "description": "Seed Legals - SEEDLEGALS             +447513038057 GBR",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -34.8,
+          "currency": "GBP",
+          "transaction_id": "c8e77d90bef778d993f08ee914897921",
+          "meta": {
+              "provider_transaction_id": "dae1d050-5ef9-453f-9cd2-054688a7e26b",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-09-10T12:17:19.002Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-06T00:01:41.281Z",
+          "description": "Toptal - TOPTAL.COM             +18886043188  CA ",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -363.22,
+          "currency": "GBP",
+          "transaction_id": "5fb720e2d7a82ab90fc497aed44a91d6",
+          "meta": {
+              "provider_transaction_id": "b4e02498-cf78-4ca2-a031-188d0204272a",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-09-03T18:08:10.322Z"
+          }
+      },
+      {
+          "timestamp": "2021-09-01T05:48:43.172Z",
+          "description": "GoDaddy - DNH*GODADDY.COM        480-5058855   AZ ",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -46.45,
+          "currency": "GBP",
+          "transaction_id": "e7a470cc73b310bb3b75f51b591ed5ef",
+          "meta": {
+              "provider_transaction_id": "a36d9396-5146-4f60-9835-4d01cee6beaa",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-08-31T15:41:18.080Z"
+          }
+      },
+      {
+          "timestamp": "2021-08-21T18:01:24.68Z",
+          "description": "Yin Noe - BIGVU APP",
+          "transaction_type": "DEBIT",
+          "transaction_category": "TRANSFER",
+          "transaction_classification": [],
+          "amount": -2.0,
+          "currency": "GBP",
+          "transaction_id": "614ef072f6b0348e727e9f824a33b123",
+          "meta": {
+              "provider_transaction_id": "6bb95bd5-d2de-4208-9d95-28a19bf03d09",
+              "provider_source": "FASTER_PAYMENTS_OUT",
+              "transaction_time": "2021-08-21T18:01:23.461Z"
+          }
+      },
+      {
+          "timestamp": "2021-08-20T00:05:31.457Z",
+          "description": "Yin Noe - BIGVU APP",
+          "transaction_type": "DEBIT",
+          "transaction_category": "TRANSFER",
+          "transaction_classification": [],
+          "amount": -14.49,
+          "currency": "GBP",
+          "transaction_id": "b9897046bfc9037d4e068700d6e19710",
+          "meta": {
+              "provider_transaction_id": "61e558ff-631b-4f29-9027-f07c7433255f",
+              "provider_source": "FASTER_PAYMENTS_OUT",
+              "transaction_time": "2021-08-20T00:05:30.651Z"
+          }
+      },
+      {
+          "timestamp": "2021-08-17T00:51:57.964Z",
+          "description": "Themes.Material-Ui - MATERIAL-UI.COM/STORE  +33676916929  FRA",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -112.26,
+          "currency": "GBP",
+          "transaction_id": "06de9f96f7196b5117ed8621676c2951",
+          "meta": {
+              "provider_transaction_id": "4e60058f-eb75-4f04-8647-b351300f6b8f",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-08-16T12:48:46.772Z"
+          }
+      },
+      {
+          "timestamp": "2021-08-16T03:55:55.241Z",
+          "description": "Webflow - WEBFLOW.COM            4159640555    CA ",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [
+              "Business Services"
+          ],
+          "merchant_name": "Webflow",
+          "amount": -14.5,
+          "currency": "GBP",
+          "transaction_id": "0a4da0e70da7130101b40c341f352486",
+          "meta": {
+              "provider_transaction_id": "49849364-0c97-4c53-9aa0-32f491bd1c5d",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-08-15T16:04:00.682Z"
+          }
+      },
+      {
+          "timestamp": "2021-08-11T00:37:10.364Z",
+          "description": "Seed Legals - SEEDLEGALS             +447513038057 GBR",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -34.8,
+          "currency": "GBP",
+          "transaction_id": "92e9e972844058d05b3985dadb326c41",
+          "meta": {
+              "provider_transaction_id": "2c817c8f-5690-44d0-9993-d41a55bd1919",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-08-10T12:17:22.804Z"
+          }
+      },
+      {
+          "timestamp": "2021-08-10T00:01:31.212Z",
+          "description": "Next Level Business - SGFJMQD",
+          "transaction_type": "DEBIT",
+          "transaction_category": "DIRECT_DEBIT",
+          "transaction_classification": [],
+          "amount": -240.0,
+          "currency": "GBP",
+          "transaction_id": "9a8a9f028e536bfc7381b4f626ca34bb",
+          "meta": {
+              "provider_transaction_id": "ab4569c4-d5b3-4e13-9ead-3c4acd4b7e10",
+              "provider_source": "DIRECT_DEBIT",
+              "transaction_time": "2021-08-10T00:01:30.899Z"
+          }
+      },
+      {
+          "timestamp": "2021-07-30T08:30:00Z",
+          "description": "2 EASTBOURNE TENANT LIMITED - 6Z1YX3",
+          "transaction_type": "CREDIT",
+          "transaction_category": "OTHER",
+          "transaction_classification": [],
+          "amount": 648.0,
+          "currency": "GBP",
+          "transaction_id": "1aa96fb566014c05bc9aa4bbef263486",
+          "meta": {
+              "provider_transaction_id": "bbb222a7-5aa4-44ee-aebd-567c4414b840",
+              "provider_source": "CHAPS",
+              "transaction_time": "2021-07-30T08:30:00.000Z"
+          }
+      },
+      {
+          "timestamp": "2021-07-16T06:37:21.027Z",
+          "description": "Webflow - WEBFLOW COM            SAN FRANCISCO CA ",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [
+              "Business Services"
+          ],
+          "merchant_name": "Webflow",
+          "amount": -14.49,
+          "currency": "GBP",
+          "transaction_id": "53b1024b67d60efa8853a565ebe31290",
+          "meta": {
+              "provider_transaction_id": "9b237b0f-a201-4017-9d44-95e593c2ea53",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-07-15T16:03:44.746Z"
+          }
+      },
+      {
+          "timestamp": "2021-07-14T00:42:58.128Z",
+          "description": "Next Level Business - SGFJMQD",
+          "transaction_type": "DEBIT",
+          "transaction_category": "DIRECT_DEBIT",
+          "transaction_classification": [],
+          "amount": -240.0,
+          "currency": "GBP",
+          "transaction_id": "b4b8224fa60e7469d88fac51aab9d079",
+          "meta": {
+              "provider_transaction_id": "1f251700-3813-400a-82a3-611a58432ba3",
+              "provider_source": "DIRECT_DEBIT",
+              "transaction_time": "2021-07-14T00:42:57.756Z"
+          }
+      },
+      {
+          "timestamp": "2021-07-12T03:09:41.097Z",
+          "description": "Seed Legals - SEEDLEGALS             +447513038057 GBR",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -34.8,
+          "currency": "GBP",
+          "transaction_id": "cce41c94acd11e96ea62d38eb4d39a2c",
+          "meta": {
+              "provider_transaction_id": "7e22cb5c-4cd2-4042-855d-7ac80c68e669",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-07-10T12:18:16.717Z"
+          }
+      },
+      {
+          "timestamp": "2021-07-09T06:39:12.697Z",
+          "description": "T A T T U - T A T T U              M'STER M3 3   GBR",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -220.11,
+          "currency": "GBP",
+          "transaction_id": "4c2791d1b697cfb173657493ddba0725",
+          "meta": {
+              "provider_transaction_id": "7513e79a-357e-4598-b048-3e06d771b5ad",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-07-08T21:39:57.639Z"
+          }
+      },
+      {
+          "timestamp": "2021-07-04T23:32:34.951Z",
+          "description": "WeWork - WeWork_UK              London        GBR",
+          "transaction_type": "DEBIT",
+          "transaction_category": "PURCHASE",
+          "transaction_classification": [],
+          "amount": -648.0,
+          "currency": "GBP",
+          "transaction_id": "36a0d5f834d923106376f52e0ad3cc9f",
+          "meta": {
+              "provider_transaction_id": "50747760-8258-43d1-959c-3aace030d6a4",
+              "provider_source": "MASTER_CARD",
+              "transaction_time": "2021-07-02T09:24:54.879Z"
+          }
+      }
+  ],
+  "status": "Succeeded"
+}
